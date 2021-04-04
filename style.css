@@ -1,0 +1,12 @@
+h1{color:black}
+body{background-color: #e6e7a9;}
+.games{
+    display:flex;
+    justify-content:space-between
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p{text-align: center;}
